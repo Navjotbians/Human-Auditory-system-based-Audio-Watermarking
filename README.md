@@ -5,3 +5,5 @@ imperceptibility, robustness.
 Spread spectrum technique is used here to embed watermark, in this technique watermark is
 embedded into frequency frames(Set of frequencies) which makes it more secure and reliable
 than inserting watermark into single sample.
+
+data.txt file is used as a watermark  
